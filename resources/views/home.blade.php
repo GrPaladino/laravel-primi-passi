@@ -13,7 +13,6 @@
     <ul>
         @foreach($students as $student)
         <li>{{$student}}</li>
-        <p></p>
         @endforeach
     </ul>
 </body>
