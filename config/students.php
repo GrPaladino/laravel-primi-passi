@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'Adri',
+    'Simone',
+    'Davide',
+    'Demetrio',
+    'Gloria',
+    'Lorenzo',
+    'Matteo',
+    'Nicola',
+    'Carmine',
+    'Luca',
+    'Alberto',
+    'Andrea',
+    'Antonio',
+    'Serena',
+    'Aziza',
+    'Christian',
+    'Giacomo',
+    'Jonathan',
+    'Lorenzo',
+    'Luca',
+    'Michele',
+    'Marco',
+    'Nabil',
+    'Pasquale',
+    'Alfonsina',
+    'Mattia',
+    'Vincenzo'
+];
